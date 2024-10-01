@@ -9,7 +9,7 @@
 ## Daily Log <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" />
 | Day | Project                   | Key Concepts                                                                                                          | Level       |
 |-----|---------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------|
-| 1   | [Band Name Generator]()   |  Printing, Debugging, String Manipulation, Comments, Input, and Variables                                             | Beginner 🐣 |
+| 1   | [Band Name Generator](https://github.com/sanskrutihere/100DaysofPython/blob/main/day%2001/band-name-generator.py)   |  Printing, Debugging, String Manipulation, Comments, Input, and Variables                                             | Beginner 🐣 |
 | 2   | [Tip Calculator]()   |  Data Types, Type Conversion/Type Casting, Operators, Number Manipulation, F-Strings                                  | Beginner 🐣 |
 ## Timeline <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="25" height="25" />
 - **Start Date:** 30th September, 2024
