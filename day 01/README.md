@@ -35,4 +35,5 @@ print("Length of your name is: ",length)
 
 ## Project: [Band Name Generator](https://github.com/sanskrutihere/100DaysofPython/blob/main/day%2001/band-name-generator.py)
 This is a basic project, where the script prompts the user for their favorite city and pet's name to generate and display a unique band name.
+
 ![Day 1 GIF](https://github.com/sanskrutihere/100DaysofPython/blob/main/assets/gif/band-name-generator.gif)
