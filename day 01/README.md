@@ -2,10 +2,9 @@
 </h1>
 <p> 
   Today, I learnt about several fundamental programming concepts including <strong>Printing, Debugging, String Manipulation, Comments, Input, and Variables</strong>.
-  And created a 
 </p>
 
-## Few Exercises & Important Concepts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" />
+## Few Exercises & Key Concepts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" />
 
 #### 1. Variable Swapping
 ```python
