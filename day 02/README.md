@@ -184,9 +184,7 @@ f-strings are formatted string literals in Python that allow you to embed expres
     print(bmi)   #Output: 30.799999999999997
    ```
 2. Number Manipulation:
-   - Raw BMI: Displays the full floating-point value with potential precision issues.
-   - Integer BMI: Shows the BMI as a whole number, truncating any decimal portion.
-   - Rounded BMI: Provides a clean, human-readable number rounded to two decimal places.
+    
      ```python
      print(bmi)             # Output: 30.799999999999997
      print(int(bmi))        # Output: 30 (floor value)
