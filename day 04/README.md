@@ -1,6 +1,6 @@
 <h1> Day 04 Overview <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="20" height="20" />
 </h1>
-Today, I explored Random Module, the Offset, Lists, Index Errors, Nested Lists
+Today, I explored Random Module, Lists, Index Errors, Nested Lists.
 
 ## 🐣 Project: [Rock Paper Scissors](https://github.com/sanskrutihere/100DaysofPython/blob/main/day%2004/rock_paper_scissor.py) 
 This project is a simple adventure game using conditionals that takes players on an exciting treasure hunt.
