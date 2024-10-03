@@ -10,8 +10,8 @@ This project is a simple adventure game using conditionals that takes players on
 ## Content:
 - Key Concepts
 
-- [Random Module](#random-module-in-python)
-- [Lists](#lists)
+1. [Random Module](#random-module-in-python)
+2. [Lists](#lists)
 
 - Exercises
 
