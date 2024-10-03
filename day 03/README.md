@@ -7,6 +7,23 @@ This project is a simple adventure game using conditionals that takes players on
 
 ![Treasure Island GIF](https://github.com/sanskrutihere/100DaysofPython/blob/main/assets/gif/treasure-island.gif)
 
+## Content:
+- Key Concepts
+
+1. [Basic if-else Statement](#basic-if-else-statement)
+2. [Nested if-else Statements](#nested-if-else-statements)
+3. [Multiple if Statements](#multiple-if-statements)
+4. [if-elif-else Statement](#if-elif-else-statement)
+5. [Logical Operators](#logical-operators)
+6. [Modulo Operator %](#modulo-operator)
+
+- Exercises
+
+1. [BMI Calculator](#bmi-calculator)
+2. [Rollercoaster Ride](#rollercoaster-ride)
+3. [Python Pizza Order](#python-pizza-order)
+
+---
 ## Key Concepts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" />
 
 ### 1. Basic `if-else` Statement
@@ -149,6 +166,7 @@ Example:
   else:
       print("Odd")
 ```
+---
 ## Exercises <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" />
 ### 1. BMI Calculator
 ```python
