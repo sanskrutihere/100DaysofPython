@@ -9,4 +9,4 @@ Today, I practiced following concepts:
 
 ## 🐣 Project: [Hangman](https://github.com/sanskrutihere/100DaysofPython/blob/main/day%2007/main.py)
 This project is a simple word guessing game.
-![day07]
+![hangman](https://github.com/sanskrutihere/100DaysofPython/blob/main/assets/gif/hangman.gif)
